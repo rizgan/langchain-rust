@@ -16,4 +16,4 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     println!("Embedding for '{}': {:?}", text, embedding);
 
     Ok(())
-}
+} 
